@@ -161,8 +161,8 @@ You can access the dataset on [Kaggle here](https://www.kaggle.com/datasets/olis
 
 This project is deployed using **Tableau** for visualizing the data and insights from the price optimization analysis.
 
-- **Tableau Dashboard**: [Link to Tableau Dashboard](https://your-tableau-dashboard-link)  
-- **Google Drive**: [Link to Google Drive](https://your-google-drive-link)
+- **Tableau Dashboard**: [Link to Tableau Dashboard]([https://your-tableau-dashboard-link](https://public.tableau.com/app/profile/uriel.siboro/viz/BrazilianE-CommerceFINAL/Dashboard2?publish=yes))  
+- **Google Drive**: [Link to Google Drive]([https://your-google-drive-link](https://drive.google.com/drive/folders/1ujXQRfHrQEJQd03RCn6wDSkgamlikWOH?usp=sharing))
 
 These links provide access to the interactive visualizations and detailed reports generated during the project, allowing users to explore the results and insights further.
 
@@ -170,4 +170,3 @@ These links provide access to the interactive visualizations and detailed report
 
 ## 🏁 License  
 This project is licensed under the MIT License — feel free to use and adapt with attribution.
-```
